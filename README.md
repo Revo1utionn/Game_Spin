@@ -1,3 +1,3 @@
 # Game_Spin
 
-* [Spin] <https://
+* [Spin] <https://Game_Spin/BuiltGame/index.html>
