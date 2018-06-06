@@ -1,4 +1,4 @@
 # Game_Spin
 
-* [Spin](GameSpin/index.html)
+* [Spin](Game_Spin/index.html)
 
